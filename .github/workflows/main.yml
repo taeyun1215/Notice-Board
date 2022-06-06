@@ -3,6 +3,7 @@ name: taeyun1215-action
 on:
   push:
     branches: [ main ]
+
 jobs:
   build:
     runs-on: ubuntu-latest
