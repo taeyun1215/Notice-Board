@@ -13,7 +13,6 @@
 - 개발 환경 : SpringBoot 2.7.0, gradle 7.2, jpa(Spring Data JPA), Spring Security, Oauth 2.0, mustache
 - 데이터베이스 : MySQL, MariaDB
 - 형상관리 툴 : GitHub
-- 간단 소개 : 전반적인 웹의 기본 소양이 되는 게시판
 
 ## 2. 요구사항 분석
 ### 회원 가입 페이지
